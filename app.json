@@ -1,0 +1,13 @@
+{
+  "name": "karol-web",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
